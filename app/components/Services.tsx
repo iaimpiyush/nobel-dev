@@ -70,7 +70,7 @@ const Services = ({ speed = 40 }: ServicesProps) => {
                 <h2 className="text-4xl md:text-6xl font-medium mb-8 max-w-3xl leading-tight text-[#2F4F22]">
                     Let us handle the numbers, <br /> So you can handle your success.
                 </h2>
-                <button className="bg-[#2F4F22] text-white px-10 py-4 rounded-full text-sm font-bold hover:scale-105 transition-transform duration-300 cursor-pointer ">
+                <button className="bg-yellow-300 text-white px-10 py-4 rounded-full text-sm font-bold hover:scale-150 transition-transform duration-300 cursor-pointer ">
                     Schedule a call
                 </button>
             </div>
